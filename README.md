@@ -6,7 +6,7 @@ Student ID: 20342820
 Approah 1: 
 Main.ipynb will preprocess the testing data and import the pre-trained model 
 
-##How to run
+## How to run
 1. Upload the test.csv inside the data folder 
 2. Run the main.ipynb, which will load the pre-trained model Final_Model.joblib
 3. submission.csv will be generate to be submit to Kaggle
