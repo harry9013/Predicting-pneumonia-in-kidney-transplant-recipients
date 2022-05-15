@@ -14,6 +14,7 @@ Main.ipynb will preprocess the testing data and import the pre-trained model, di
 
 ## Approach 2: 
 5001_model_training_Process.ipynb will rerun the whole training process, preprocess the testing data and generate the prediction based on the new trained model 
+5001_model_training_Process.ipynb also include the data exploration and gridesearch process
 
 ### How to run
 1. Upload the test.csv inside the data folder 
